@@ -1,0 +1,67 @@
+body {
+	background: url('https://s19.postimg.org/k3tlec5ab/background-dark.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	color: #eee;
+	font-size: 16px;
+	margin-bottom: 100px;
+}
+
+h1 {
+	font-family: 'Revalia', cursive;
+	font-size: 7rem;
+	padding-top: 30px;
+}
+
+h3 {
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 1.5rem;
+	letter-spacing: 0.1rem;
+}
+
+hr {
+	padding-bottom: 80px;
+	opacity: 0.5;
+	width: 75%;
+}
+
+hr.short {
+	width: 35rem;
+	padding-top: 30px;
+	padding-bottom: 0;
+	opacity: 0.25;
+}
+
+.city {
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 4rem;
+	letter-spacing: 0.1rem;
+}
+
+.day {
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 1.2rem;
+	letter-spacing: 0.1rem;
+	margin-top: -12px;
+	margin-bottom: 15px;
+}
+
+.time {
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 3rem;
+	letter-spacing: 0.1rem;
+}
+
+#clock-icon {
+	font-size: 4rem;
+	margin-bottom: 4rem;
+}
+
+hr.footer {
+	width: 60rem;
+	opacity: 0.25;
+}
+
+
